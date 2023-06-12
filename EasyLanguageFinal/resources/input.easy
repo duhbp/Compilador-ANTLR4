@@ -1,0 +1,24 @@
+init
+  number a, b;
+  text  t1;
+
+  read(a);
+  read(b);
+  
+  a = 1 + 2 * 3 / b;
+  
+  if ( a > b ) {
+     print.terminal (a);
+  }
+  else {
+     print.terminal (b);
+  }
+  
+  while ( a < b ) {
+    print.terminal (a);
+  }
+
+  repeat (2; a > b) {
+    print.terminal (a);
+  }
+end;

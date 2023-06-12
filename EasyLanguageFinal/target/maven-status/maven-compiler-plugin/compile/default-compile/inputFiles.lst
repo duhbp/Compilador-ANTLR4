@@ -1,0 +1,15 @@
+C:\Users\Israel\Documents\NetBeansProjects\EasyLanguageFinal\src\main\java\br\edu\cefsa\compiler\datastructures\EasySymbol.java
+C:\Users\Israel\Documents\NetBeansProjects\EasyLanguageFinal\src\main\java\br\edu\cefsa\compiler\abstractsyntaxtree\EasyProgram.java
+C:\Users\Israel\Documents\NetBeansProjects\EasyLanguageFinal\src\main\java\br\edu\cefsa\compiler\parser\EasyLanguageBaseListener.java
+C:\Users\Israel\Documents\NetBeansProjects\EasyLanguageFinal\src\main\java\br\edu\cefsa\compiler\main\MainClass.java
+C:\Users\Israel\Documents\NetBeansProjects\EasyLanguageFinal\src\main\java\br\edu\cefsa\compiler\datastructures\EasyVariable.java
+C:\Users\Israel\Documents\NetBeansProjects\EasyLanguageFinal\src\main\java\br\edu\cefsa\compiler\abstractsyntaxtree\AbstractCommand.java
+C:\Users\Israel\Documents\NetBeansProjects\EasyLanguageFinal\src\main\java\br\edu\cefsa\compiler\abstractsyntaxtree\CommandAtribuicao.java
+C:\Users\Israel\Documents\NetBeansProjects\EasyLanguageFinal\src\main\java\br\edu\cefsa\compiler\parser\EasyLanguageListener.java
+C:\Users\Israel\Documents\NetBeansProjects\EasyLanguageFinal\src\main\java\br\edu\cefsa\compiler\datastructures\EasySymbolTable.java
+C:\Users\Israel\Documents\NetBeansProjects\EasyLanguageFinal\src\main\java\br\edu\cefsa\compiler\parser\EasyLanguageParser.java
+C:\Users\Israel\Documents\NetBeansProjects\EasyLanguageFinal\src\main\java\br\edu\cefsa\compiler\abstractsyntaxtree\CommandLeitura.java
+C:\Users\Israel\Documents\NetBeansProjects\EasyLanguageFinal\src\main\java\br\edu\cefsa\compiler\abstractsyntaxtree\CommandDecisao.java
+C:\Users\Israel\Documents\NetBeansProjects\EasyLanguageFinal\src\main\java\br\edu\cefsa\compiler\abstractsyntaxtree\CommandEscrita.java
+C:\Users\Israel\Documents\NetBeansProjects\EasyLanguageFinal\src\main\java\br\edu\cefsa\compiler\exceptions\EasySemanticException.java
+C:\Users\Israel\Documents\NetBeansProjects\EasyLanguageFinal\src\main\java\br\edu\cefsa\compiler\parser\EasyLanguageLexer.java
